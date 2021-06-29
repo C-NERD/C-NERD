@@ -20,4 +20,4 @@ Self taught software developer🖥️🖥️ and small time youtuber📷📷. I 
 #### Find me on the web🕸🕸:
 
 - [Youtube](https://www.youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ) 📷📷
-- [Gmail](mailto: alayaa694@gmail.com) 📪✉
+- [Gmail](alayaa694@gmail.com) 📪✉
