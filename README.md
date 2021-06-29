@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm C-NERD
 
 <!--
 **C-NERD/C-NERD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Self taught software developer🖥️🖥️ and small time youtuber📷📷. I enjoy working on interesting softwares and helping the open source community grow. My tech stack include Nim, Python, JavaScript and Kotlin.
+
+#### Find me on the web🕸🕸:
+
+- [Youtube](https://www.youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ) 📷📷
+- [Gmail](mailto: alayaa694@gmail.com) 📪✉
