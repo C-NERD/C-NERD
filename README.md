@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Self taught software developer🖥️. I love working on intresting complex algorithims and hacking(the legal kind of course, sometimes 👀), prefere low level / middle level / low high level coding (depending on how much of a bada** you are. with c/c++ devs being most bada** and js devs being least(sorry guys🙇)) and not a fan of
-unnessesary technologies. My tech stack include Nim, Python, JavaScript and Dart.
+I am a systems software and embedded systems engineer. I love working on intresting complex algorithims and hacking(the legal kind of course, sometimes 👀). My tech stack include Nim, Python, JavaScript, MoveLang, Solidity and Dart.
 
 #### Favorite Quote
 
-- Find a simple solution to a complex problem (By every old IT guy out there😄)
-- Try to always work with the std library, only import third party libraries if you have to or if you're feeling lazy (By an old wise C-NERD💆)
+- Find a simple solution to a complex problem (By every old IT guy out there 😄)
+- Try to always work with the std library, only import third party libraries if you have to (By an old wise C-NERD 💆)
 
 #### Find me on the web🕸🕸:
 
