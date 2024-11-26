@@ -1,4 +1,4 @@
-### Hi there 👋 I'm C-NERD
+### Hi there 👋
 
 <!--
 **C-NERD/C-NERD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a systems software and embedded systems engineer. I love working on intresting complex algorithims and hacking(the legal kind of course, sometimes 👀). My tech stack include Nim, Python, JavaScript, MoveLang, Solidity and Dart.
+I am a systems software and embedded systems engineer. My tech stack include Nim, Python, JavaScript, MoveLang, Solidity and Java.
 
-#### Favorite Quote
-
-- Find a simple solution to a complex problem (By every old IT guy out there 😄)
-- Try to always work with the std library, only import third party libraries if you have to (By an old wise C-NERD 💆)
-
-#### Find me on the web🕸🕸:
+- 📫 How to reach me: ...
 
 - [Youtube](https://www.youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ) 📷📷
 - [Gmail](mailto:alayaa694@gmail.com) 📪✉
